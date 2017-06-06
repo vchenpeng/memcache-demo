@@ -1,0 +1,10 @@
+G:\chenpeng\MemcacheDemo\MemcacheDemo\bin\Debug\MemcacheDemo.exe.config
+G:\chenpeng\MemcacheDemo\MemcacheDemo\bin\Debug\MemcacheDemo.exe
+G:\chenpeng\MemcacheDemo\MemcacheDemo\bin\Debug\MemcacheDemo.pdb
+G:\chenpeng\MemcacheDemo\MemcacheDemo\bin\Debug\Enyim.Caching.dll
+G:\chenpeng\MemcacheDemo\MemcacheDemo\bin\Debug\Enyim.Caching.xml
+G:\chenpeng\MemcacheDemo\MemcacheDemo\obj\Debug\MemcacheDemo.csprojResolveAssemblyReference.cache
+G:\chenpeng\MemcacheDemo\MemcacheDemo\obj\Debug\MemcacheDemo.exe
+G:\chenpeng\MemcacheDemo\MemcacheDemo\obj\Debug\MemcacheDemo.pdb
+G:\chenpeng\MemcacheDemo\MemcacheDemo\bin\Debug\Newtonsoft.Json.dll
+G:\chenpeng\MemcacheDemo\MemcacheDemo\bin\Debug\Newtonsoft.Json.xml
